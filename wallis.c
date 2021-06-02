@@ -32,6 +32,6 @@ float wallis_pi(int n)
  {j=(float)4.0*i*i/(4.0*i*i-1);
   count*=j;
  }
-   return count*2  
+   return count*2 
  }
                   
